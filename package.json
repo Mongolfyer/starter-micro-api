@@ -1,13 +1,15 @@
 {
-  "name": "starter-micro-api",
+  "dependencies": {
+    "ws": "^8.14.2"
+  },
+  "name": "car",
   "version": "1.0.0",
-  "description": "Cyclic.sh micro api starter",
   "main": "index.js",
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-  }
+  "description": ""
 }
